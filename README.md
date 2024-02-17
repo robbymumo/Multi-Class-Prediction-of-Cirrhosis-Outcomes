@@ -3,7 +3,6 @@
 
 ## Authors
 - Robinson Mumo
-- Kelvin Rotich
 
 ## Problem Question
 Develop a robust machine learning model utilizing a comprehensive set of demographic, clinical, and laboratory features to predict liver cirrhosis outcomes with a minimum accuracy of 95%.
